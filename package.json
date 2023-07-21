@@ -4,7 +4,7 @@
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
-    "start": "tailwindcss -i ./src/input.css -o ./dist/styles.css --watch"
+    "start": "tailwindcss -i ./assets/styles/input.css -o ./assets/styles/style.css --watch"
   },
   "keywords": [],
   "author": "Burak A. <burakyabgu@gmail.com>",
